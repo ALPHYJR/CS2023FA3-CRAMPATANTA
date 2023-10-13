@@ -1,0 +1,10 @@
+<!DOCTYPE.html>
+  <html>
+      <head>
+        <title> My first webpage</title>
+      </head>
+    <body>
+      <h1> WELCOME TO CS3!!</h1> 
+      <button type="button" formaction="https://www.chess.com/">Get In Touch!</button>
+    </body>
+  </html>
